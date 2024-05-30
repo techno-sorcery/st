@@ -14,7 +14,7 @@ static char *font2[] = {
     "Symbola:size=10"
 };
 
-static int borderpx = 2;
+static int borderpx = 4;
 
 /*
  * What program is execed by st depends of these precedence rules:
